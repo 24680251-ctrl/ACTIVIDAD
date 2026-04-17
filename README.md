@@ -243,7 +243,3 @@ Todos fueron corregidos sin modificar la estructura original.
 
 ---
 
-
-#  Autor
-
-Proyecto corregido paso a paso para entrega académica.
