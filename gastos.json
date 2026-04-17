@@ -1,0 +1,17 @@
+[
+    {
+        "fecha": "2026-04-16",
+        "concepto": "Mantenimiento ",
+        "monto": "300"
+    },
+    {
+        "fecha": "2026-04-16",
+        "concepto": "recurso",
+        "monto": 150.0
+    },
+    {
+        "fecha": "2026-04-16",
+        "concepto": "recursos",
+        "monto": 150.0
+    }
+]

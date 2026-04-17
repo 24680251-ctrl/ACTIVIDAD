@@ -1,0 +1,41 @@
+[
+    {
+        "fecha": "2026-04-16",
+        "hora": "09:34",
+        "productos": {
+            "Mole Poblano": 3,
+            "Pozole Rojo": 1,
+            "Tacos de Cabeza": 1
+        },
+        "total": 205.0
+    },
+    {
+        "fecha": "2026-04-16",
+        "hora": "09:38",
+        "productos": {
+            "Chiles Rellenos": 2,
+            "Tacos de Cabeza": 1
+        },
+        "total": 100.0
+    },
+    {
+        "fecha": "2026-04-16",
+        "hora": "09:50",
+        "productos": {
+            "Mole Poblano": 1,
+            "Enchiladas Verdes": 1,
+            "Chiles Rellenos": 1
+        },
+        "total": 120
+    },
+    {
+        "fecha": "2026-04-16",
+        "hora": "17:57",
+        "productos": {
+            "Tacos de Cabeza": 1,
+            "Pozole Rojo": 1,
+            "Chiles Rellenos": 1
+        },
+        "total": 110.0
+    }
+]
